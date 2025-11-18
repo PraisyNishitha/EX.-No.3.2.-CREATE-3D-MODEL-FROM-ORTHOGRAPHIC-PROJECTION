@@ -1,5 +1,7 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## NAME: PRAISY NIHSITHA J
+## REGISTER NUMBER : 212224100042
+## DATE:18.11.2025
 ## AIM:
 To create a 3D model from given orthographic projection.
 
